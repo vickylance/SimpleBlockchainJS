@@ -1,5 +1,5 @@
 {
-  "name": "simple-blockchain",
+  "name": "simpleblockchainjs",
   "version": "1.0.0",
   "description": "A simple example of a working model of blockchain.",
   "main": "app.js",
